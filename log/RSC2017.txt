@@ -1,0 +1,180 @@
+Optimizer: Adam
+
+[Validation Epoch    0] *auc= 0.5000                                                                
+tensor(9605.7217, device='cuda:0', grad_fn=<AddBackward0>)
+
+[Validation Epoch    1] *auc= 0.8124                                                                
+tensor(3813.6484, device='cuda:0', grad_fn=<AddBackward0>)
+
+[Validation Epoch    2] *auc= 0.8234                                                                
+tensor(1661.6724, device='cuda:0', grad_fn=<AddBackward0>)
+
+[Validation Epoch    3] auc= 0.8210                                                                 
+tensor(622.3083, device='cuda:0', grad_fn=<AddBackward0>)
+
+[Validation Epoch    4] *auc= 0.8319                                                                
+tensor(337.0272, device='cuda:0', grad_fn=<AddBackward0>)
+
+[Validation Epoch    5] auc= 0.8282                                                                 
+tensor(281.5352, device='cuda:0', grad_fn=<AddBackward0>)
+
+[Validation Epoch    6] auc= 0.8293                                                                 
+tensor(238.5925, device='cuda:0', grad_fn=<AddBackward0>)
+
+[Validation Epoch    7] auc= 0.8171                                                                 
+tensor(217.1720, device='cuda:0', grad_fn=<AddBackward0>)
+
+[Validation Epoch    8] auc= 0.8088                                                                 
+tensor(320.3312, device='cuda:0', grad_fn=<AddBackward0>)
+
+[Validation Epoch    9] auc= 0.8005                                                                 
+tensor(248.6572, device='cuda:0', grad_fn=<AddBackward0>)
+
+[Validation Epoch   10] auc= 0.7953                                                                 
+tensor(230.4503, device='cuda:0', grad_fn=<AddBackward0>)
+
+[Validation Epoch   11] auc= 0.7928                                                                 
+tensor(192.9316, device='cuda:0', grad_fn=<AddBackward0>)
+
+[Validation Epoch   12] auc= 0.7847                                                                 
+tensor(258.4568, device='cuda:0', grad_fn=<AddBackward0>)
+
+[Validation Epoch   13] auc= 0.7883                                                                 
+tensor(333.6420, device='cuda:0', grad_fn=<AddBackward0>)
+
+[Validation Epoch   14] auc= 0.7776                                                                 
+tensor(364.0645, device='cuda:0', grad_fn=<AddBackward0>)
+
+[Validation Epoch   15] auc= 0.7706                                                                 
+tensor(249.8083, device='cuda:0', grad_fn=<AddBackward0>)
+
+[Validation Epoch   16] auc= 0.7646                                                                 
+tensor(290.0946, device='cuda:0', grad_fn=<AddBackward0>)
+
+[Validation Epoch   17] auc= 0.7759                                                                 
+tensor(328.8938, device='cuda:0', grad_fn=<AddBackward0>)
+
+[Validation Epoch   18] auc= 0.7702                                                                 
+tensor(1271.1538, device='cuda:0', grad_fn=<AddBackward0>)
+
+[Validation Epoch   19] auc= 0.7780                                                                 
+tensor(408.3851, device='cuda:0', grad_fn=<AddBackward0>)
+
+[Validation Epoch   20] auc= 0.7914                                                                 
+tensor(287.8001, device='cuda:0', grad_fn=<AddBackward0>)
+
+[Validation Epoch   21] auc= 0.7815                                                                 
+tensor(341.8299, device='cuda:0', grad_fn=<AddBackward0>)
+
+[Validation Epoch   22] auc= 0.7871                                                                 
+tensor(1100.8538, device='cuda:0', grad_fn=<AddBackward0>)
+
+[Validation Epoch   23] auc= 0.7861                                                                 
+tensor(301.2871, device='cuda:0', grad_fn=<AddBackward0>)
+
+[Validation Epoch   24] auc= 0.7796                                                                 
+tensor(799.7328, device='cuda:0', grad_fn=<AddBackward0>)
+
+[Validation Epoch   25] auc= 0.7869                                                                 
+tensor(479.3942, device='cuda:0', grad_fn=<AddBackward0>)
+
+[Validation Epoch   26] auc= 0.7907                                                                 
+tensor(408.0353, device='cuda:0', grad_fn=<AddBackward0>)
+
+[Validation Epoch   27] auc= 0.7914                                                                 
+tensor(317.8642, device='cuda:0', grad_fn=<AddBackward0>)
+
+[Validation Epoch   28] auc= 0.7814                                                                 
+tensor(1413.5298, device='cuda:0', grad_fn=<AddBackward0>)
+
+[Validation Epoch   29] auc= 0.7827                                                                 
+tensor(395.1241, device='cuda:0', grad_fn=<AddBackward0>)
+
+[Validation Epoch   30] auc= 0.7841                                                                 
+tensor(320.9975, device='cuda:0', grad_fn=<AddBackward0>)
+
+[Validation Epoch   31] auc= 0.7666                                                                 
+tensor(460.2452, device='cuda:0', grad_fn=<AddBackward0>)
+
+[Validation Epoch   32] auc= 0.7856                                                                 
+tensor(325.6537, device='cuda:0', grad_fn=<AddBackward0>)
+
+[Validation Epoch   33] auc= 0.7723                                                                 
+tensor(339.4333, device='cuda:0', grad_fn=<AddBackward0>)
+
+[Validation Epoch   34] auc= 0.7750                                                                 
+tensor(891.7770, device='cuda:0', grad_fn=<AddBackward0>)
+
+[Validation Epoch   35] auc= 0.7745                                                                 
+tensor(342.4330, device='cuda:0', grad_fn=<AddBackward0>)
+
+[Validation Epoch   36] auc= 0.7828                                                                 
+tensor(314.7021, device='cuda:0', grad_fn=<AddBackward0>)
+
+[Validation Epoch   37] auc= 0.7747                                                                 
+tensor(312.3190, device='cuda:0', grad_fn=<AddBackward0>)
+
+[Validation Epoch   38] auc= 0.7740                                                                 
+tensor(313.4819, device='cuda:0', grad_fn=<AddBackward0>)
+
+[Validation Epoch   39] auc= 0.7667                                                                 
+tensor(568.9488, device='cuda:0', grad_fn=<AddBackward0>)
+
+[Validation Epoch   40] auc= 0.7753                                                                 
+tensor(329.4400, device='cuda:0', grad_fn=<AddBackward0>)
+
+[Validation Epoch   41] auc= 0.7725                                                                 
+tensor(545.5720, device='cuda:0', grad_fn=<AddBackward0>)
+
+[Validation Epoch   42] auc= 0.7589                                                                 
+tensor(515.6428, device='cuda:0', grad_fn=<AddBackward0>)
+
+[Validation Epoch   43] auc= 0.7688                                                                 
+tensor(330.8296, device='cuda:0', grad_fn=<AddBackward0>)
+
+[Validation Epoch   44] auc= 0.7871                                                                 
+tensor(294.2983, device='cuda:0', grad_fn=<AddBackward0>)
+
+[Validation Epoch   45] auc= 0.7828                                                                 
+tensor(458.3508, device='cuda:0', grad_fn=<AddBackward0>)
+
+[Validation Epoch   46] auc= 0.7836                                                                 
+tensor(319.8251, device='cuda:0', grad_fn=<AddBackward0>)
+
+[Validation Epoch   47] auc= 0.7769                                                                 
+tensor(272.0459, device='cuda:0', grad_fn=<AddBackward0>)
+
+[Validation Epoch   48] auc= 0.7835                                                                 
+tensor(532.8541, device='cuda:0', grad_fn=<AddBackward0>)
+
+[Validation Epoch   49] auc= 0.7739                                                                 
+tensor(293.0456, device='cuda:0', grad_fn=<AddBackward0>)
+
+[Validation Epoch   50] auc= 0.7782                                                                 
+tensor(271.2099, device='cuda:0', grad_fn=<AddBackward0>)
+
+[Validation Epoch   51] auc= 0.7581                                                                 
+tensor(282.7566, device='cuda:0', grad_fn=<AddBackward0>)
+
+[Validation Epoch   52] auc= 0.7638                                                                 
+tensor(243.8120, device='cuda:0', grad_fn=<AddBackward0>)
+
+[Validation Epoch   53] auc= 0.7693                                                                 
+tensor(341.4961, device='cuda:0', grad_fn=<AddBackward0>)
+
+[Validation Epoch   54] auc= 0.7669                                                                 
+load model from ./model/RSC2017/ENRL/a99bc9987c50a602aa63_1949/checkpoints/best.ckpt
+load hparams from ./model/RSC2017/ENRL/a99bc9987c50a602aa63_1949/hparams.yaml
+
+[Test    1] *auc= 0.7706                                                                            
+
+date: 2022-04-21 22:07:18
+time: 1 day, 12:14:14
+server: server
+model_name: ENRL
+version: a99bc9987c50a602aa63_1949
+num_para: 37416460
+best_iter: 4.0
+train_metrics: loss= 794227.5000
+val_metrics: auc= 0.8319
+test_metrics: auc= 0.7706
