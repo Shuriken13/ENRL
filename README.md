@@ -1,7 +1,7 @@
 # ENRL
 
 This is the implementation for
-*Explainable Neural Rule Learning.  In Proceedings of The ACM Web Conference 2022 (TheWebConf ’22).*
+[*Explainable Neural Rule Learning*](https://dl.acm.org/doi/abs/10.1145/3485447.3512023). *In Proceedings of The ACM Web Conference 2022 (TheWebConf ’22).*
 
 
 
@@ -72,9 +72,19 @@ You should place the datasets in the `./dataset/`. The tree structure of directo
 
 If you find this repository useful for your research or development, please cite the following paper:
 ```
-@inproceedings{shi2021explainable,
-    title = "Explainable Neural Rule Learning",
-    author = "Shi, Shaoyun and Xie, Yuexiang  and Wang, Zhen and Ding, Bolin and Li, Yaliang and Zhang, Min",
-    booktitle = "Proceedings of The Web Conference 2022",
-    year = "2022"
+@inproceedings{10.1145/3485447.3512023,
+    author = {Shi, Shaoyun and Xie, Yuexiang and Wang, Zhen and Ding, Bolin and Li, Yaliang and Zhang, Min},
+    title = {Explainable Neural Rule Learning},
+    year = {2022},
+    isbn = {9781450390965},
+    publisher = {Association for Computing Machinery},
+    address = {New York, NY, USA},
+    url = {https://doi.org/10.1145/3485447.3512023},
+    doi = {10.1145/3485447.3512023},
+    booktitle = {Proceedings of the ACM Web Conference 2022},
+    pages = {3031–3041},
+    numpages = {11},
+    keywords = {explainable neural networks, rule learning, out of distribution},
+    location = {Virtual Event, Lyon, France},
+    series = {WWW '22}
 }
